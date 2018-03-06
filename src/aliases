@@ -1,0 +1,23 @@
+# Shortcut for `brew cask` command
+alias bc='command brew cask'
+
+# Shortcut to install a specific Homebrew-Cask application
+alias bci='bc install'
+
+# Shortcut to list all installed Homebrew-Cask applications
+alias bcl='bc ls'
+
+# Shortcut to uninstall a specific Homebrew-Cask application
+alias bcu='bc rm'
+
+# Alias for `brew cask` command
+alias cask='bc'
+
+# Shortcut to list all installed Homebrew-Cask applications and their versions
+alias casks='bcl --versions'
+
+# Shortcut to cleanly update Homebrew formulae and Homebrew-Cask applications
+alias recask='command brew update; bc upgrade; bc cleanup'
+
+# Alias to uninstall a specific Homebrew-Cask application
+alias uncask='bcu'

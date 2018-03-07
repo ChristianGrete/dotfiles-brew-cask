@@ -47,7 +47,7 @@ unset tag
 
 git add dist
 
-git commit -m "release(v$version): distribute [ci skip]"
+git commit -m "release(v$version): distribute"
 
 git push origin master
 

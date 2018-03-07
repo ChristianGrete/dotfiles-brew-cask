@@ -14,6 +14,7 @@ The format is based on [Keep a Changelog][keep-a-changelog-url] and this project
 - chore(*): add task binaries [[#4](https://github.com/ChristianGrete/dotfiles-brew-cask/pull/4)]
 - docs(readme): update readme file [[#5](https://github.com/ChristianGrete/dotfiles-brew-cask/pull/5)]
 - fix(*): remove zero version
+- fix(readme): add missing file extension
 
 ### Unmerged
 

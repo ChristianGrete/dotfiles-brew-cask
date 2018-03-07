@@ -46,4 +46,4 @@ Copyright © 2018 [Christian Grete](https://christiangrete.com)
 [github-url]: https://github.com/ChristianGrete/dotfiles-brew-cask
 [shield-dependency-dotfiles-brew]: https://img.shields.io/badge/depends_on-dotfiles--brew-333333.svg
 [shield-dependency-dotfiles]: https://img.shields.io/badge/depends_on-dotfiles-333333.svg
-[shield-github-tag]: https://img.shields.io/github/tag/ChristianGrete/dotfiles-brew-cask
+[shield-github-tag]: https://img.shields.io/github/tag/ChristianGrete/dotfiles-brew-cask.svg

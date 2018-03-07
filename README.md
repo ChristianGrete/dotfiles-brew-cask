@@ -1,4 +1,4 @@
-# [dotfiles-brew-cask][github-url]
+# [dotfiles-brew-cask][github-url] :beers:
 
 [![Latest GitHub Tag][shield-github-tag]][github-tags-url]
 

@@ -13,6 +13,7 @@ The format is based on [Keep a Changelog][keep-a-changelog-url] and this project
 - feat(*): add source files [[#3](https://github.com/ChristianGrete/dotfiles-brew-cask/pull/3)]
 - chore(*): add task binaries [[#4](https://github.com/ChristianGrete/dotfiles-brew-cask/pull/4)]
 - docs(readme): update readme file [[#5](https://github.com/ChristianGrete/dotfiles-brew-cask/pull/5)]
+- fix(*): remove zero version
 
 ### Unmerged
 

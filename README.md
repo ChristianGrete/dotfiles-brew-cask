@@ -8,6 +8,25 @@
 
 This is my [dotfiles][github-dotfiles-url] [package][github-dotfiles-packages-url] to setup [Homebrew-Cask][github-homebrew-cask-url] on my machine.
 
+## Getting started
+
+__This package has been written to work on a Mac only!__
+
+### Installation
+To install this package to your [dotfiles packages][github-dotfiles-packages-url], simply run:
+```sh
+dotfiles add brew-cask
+```
+Or, manually, clone it from GitHub and run `bin/install`:
+```sh
+git clone https://github.com/ChristianGrete/dotfiles-brew-cask.git
+
+./dotfiles-brew-cask/bin/install
+```
+
+### Usage
+This package installs [Homebrew-Cask][github-homebrew-cask-url] and provides several aliases, e.g. `bc` for `brew cask`, `bci` for `brew cask install`, `bcl` for `brew cask list` and so on. See [src/aliases](src/aliases) to get a full list of provided aliases.
+
 ## License
 
 This software is licensed under [MIT License](LICENSE.md).

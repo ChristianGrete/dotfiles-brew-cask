@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog][keep-a-changelog-url] and this project
 
 ## [Unreleased]
 
+### Unmerged
+
+- [develop]
+
+## [1.0.0]
+
 ### Added
 
 - chore(git): setup excludes and commit message template [[#1](https://github.com/ChristianGrete/dotfiles-brew-cask/pull/1)]
@@ -17,11 +23,8 @@ The format is based on [Keep a Changelog][keep-a-changelog-url] and this project
 - fix(readme): add missing file extension
 - fix(bin): remove ci skip flag from release
 
-### Unmerged
-
-- [develop]
-
-[Unreleased]: https://github.com/ChristianGrete/dotfiles-brew-cask/compare/2491ed49a82abf57d4ab84bf40b6d3adbb37fc10...develop
+[Unreleased]: https://github.com/ChristianGrete/dotfiles-brew-cask/compare/1.0.0...master
+[1.0.0]: https://github.com/ChristianGrete/dotfiles-brew-cask/compare/2491ed49a82abf57d4ab84bf40b6d3adbb37fc10...1.0.0
 [develop]: https://github.com/ChristianGrete/dotfiles-brew-cask/compare/master...develop
 
 Copyright © 2018 ([MIT](LICENSE.md)) [Christian Grete](https://christiangrete.com)

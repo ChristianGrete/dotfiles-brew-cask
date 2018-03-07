@@ -25,7 +25,7 @@ git clone https://github.com/ChristianGrete/dotfiles-brew-cask.git
 ```
 
 ### Usage
-This package installs [Homebrew-Cask][github-homebrew-cask-url] and provides several aliases, e.g. `bc` for `brew cask`, `bci` for `brew cask install`, `bcl` for `brew cask list` and so on. See [src/aliases](src/aliases) to get a full list of provided aliases.
+This package installs [Homebrew-Cask][github-homebrew-cask-url] and provides several aliases, e.g. `bc` for `brew cask`, `bci` for `brew cask install`, `bcl` for `brew cask list` and so on. See [dist/aliases](dist/aliases) to get a full list of provided aliases.
 
 ## License
 

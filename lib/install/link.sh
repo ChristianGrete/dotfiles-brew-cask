@@ -23,4 +23,4 @@ fi
 
 echo 'Creating symbolic link...'
 
-symlink "$PWD/src/profile.sh" "$PROFILES/brew-cask.sh"
+symlink "$PWD/dist/profile.sh" "$PROFILES/brew-cask.sh"

@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog][keep-a-changelog-url] and this project
 
 ## [Unreleased]
 
+- fix(*): use dist as symlink source
+
 ### Unmerged
 
 - [develop]

@@ -6,11 +6,15 @@ The format is based on [Keep a Changelog][keep-a-changelog-url] and this project
 
 ## [Unreleased]
 
-- fix(*): use dist as symlink source
-
 ### Unmerged
 
 - [develop]
+
+## [1.0.1]
+
+### Fixed
+
+- fix(*): use dist as symlink source
 
 ## [1.0.0]
 
@@ -25,7 +29,8 @@ The format is based on [Keep a Changelog][keep-a-changelog-url] and this project
 - fix(readme): add missing file extension
 - fix(bin): remove ci skip flag from release
 
-[Unreleased]: https://github.com/ChristianGrete/dotfiles-brew-cask/compare/1.0.0...master
+[Unreleased]: https://github.com/ChristianGrete/dotfiles-brew-cask/compare/1.0.1...master
+[1.0.1]: https://github.com/ChristianGrete/dotfiles-brew-cask/compare/1.0.0...1.0.1
 [1.0.0]: https://github.com/ChristianGrete/dotfiles-brew-cask/compare/2491ed49a82abf57d4ab84bf40b6d3adbb37fc10...1.0.0
 [develop]: https://github.com/ChristianGrete/dotfiles-brew-cask/compare/master...develop
 

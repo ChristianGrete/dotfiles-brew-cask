@@ -6,20 +6,19 @@ The format is based on [Keep a Changelog][keep-a-changelog-url] and this project
 
 ## [Unreleased]
 
-### Unmerged
+- style(log): remove blank lines below h3's
 
+### Unmerged
 - [develop]
 
 ## [1.0.1]
 
 ### Fixed
-
 - fix(*): use dist as symlink source
 
 ## [1.0.0]
 
 ### Added
-
 - chore(git): setup excludes and commit message template [[#1](https://github.com/ChristianGrete/dotfiles-brew-cask/pull/1)]
 - style(*): setup editors [[#2](https://github.com/ChristianGrete/dotfiles-brew-cask/pull/2)]
 - feat(*): add source files [[#3](https://github.com/ChristianGrete/dotfiles-brew-cask/pull/3)]
